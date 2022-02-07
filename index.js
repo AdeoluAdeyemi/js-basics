@@ -41,4 +41,16 @@ function square(number){
     return number*number;
 }
 
-console.log
+console.log(square(2));
+
+
+// Javascript Operators
+let x = 2;
+let y = 5;
+
+console.log(x+y);
+console.log(x-y);
+console.log(x/y);
+console.log(x*y);
+console.log(x%y);
+console.log(x**y);
